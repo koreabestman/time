@@ -1,0 +1,9 @@
+﻿  time.cpp
+C:\Users\jin20\source\repos\time\time\time.cpp(64,19): warning C4566: 유니버설 문자 이름 '\U0001F504'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jin20\source\repos\time\time\time.cpp(68,23): warning C4566: 유니버설 문자 이름 '\U0001F310'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jin20\source\repos\time\time\time.cpp(72,26): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jin20\source\repos\time\time\time.cpp(94,27): warning C4566: 유니버설 문자 이름 '\u23F3'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jin20\source\repos\time\time\time.cpp(119,40): warning C4566: 유니버설 문자 이름 '\u2705'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jin20\source\repos\time\time\time.cpp(128,37): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jin20\source\repos\time\time\time.cpp(136,14): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  time.vcxproj -> C:\Users\jin20\source\repos\time\Debug\time.exe
